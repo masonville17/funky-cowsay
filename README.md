@@ -1,7 +1,7 @@
 # funky-cowsay
 Additional Original Cowfiles for Cowsay
 
-# for MacOs, Linux, WSL2 Cowsays
+# for MacOs, Linux, WSL2 Cowsay
 
 ## Project State: Adding Cows Here and There
 The absolute state of cowfiles has pushed me to make some original cows, which should make the world run much more smoothly
