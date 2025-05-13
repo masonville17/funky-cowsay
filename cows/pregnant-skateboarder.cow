@@ -2,13 +2,14 @@
 ## Busted!
 ##
 $the_cow = <<EOC;
+$thoughts
   $thoughts    
-   $thoughts
-                     +                       
-                   :**\@+                     
-                  *\@*\@\@\@                     
-                 /\@**\@\@*                     
-               ::+**\@\@*:                     
+    $thoughts
+      $thoughts               +                       
+        $thoughts           :**\@+                     
+          $thoughts        *\@*\@\@\@                     
+            $thoughts     /\@**\@\@*                     
+              $thoughts ::+**\@\@*:                     
                :*\@*\@\@+:                      
               ++***\@*+                       
                :++****+:                     
