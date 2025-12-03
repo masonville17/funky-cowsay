@@ -2,9 +2,9 @@
 ## The Hand...
 ##
 $the_cow = <<EOC;
-  $thoughts    
+  $thoughts
    $thoughts
-      _  -  _   
+      _  -  _
    _ | || || |
   | || || || |
   | ┤| ┤| ┤| ┤   _
