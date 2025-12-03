@@ -13,4 +13,6 @@ The absolute state of cowfiles has pushed me to make some original cows, which s
 
 ### alternative install
 
+place cows manually
+
 <img width="345" alt="image" src="https://github.com/user-attachments/assets/57cabb47-42b7-4798-9098-293b06c033cd" />
